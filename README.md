@@ -17,12 +17,12 @@
 <a href="https://instagram.com/_.bala._.11._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_.bala._.11._" height="30" width="110" /></a>
 <a href="https://www.hackerrank.com/logasebala" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="logasebala" height="30" width="130" /></a>
 </p>
-<div>
+![balasubramanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-sivakavi&show_icons=true&theme=radical)
+<br>
+<div style=width:"25">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=balasubramanian-sivakavi&show_icons=true&locale=en&layout=compact" alt="balasubramanian-sivakavi" height="270" width="355" /></p><br>
 
-![balasubramanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-sivakavi&show_icons=true&theme=radical)
-</div>
-<br>
 <br> 
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=balasubramanian-sivakavi&label=Profile%20views&color=0e75b6&style=flat" alt="balasubramanian-sivakavi" /> </p>
