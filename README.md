@@ -4,10 +4,6 @@
 # 💫 About Me:
 🔭 I’m currently working on HAND SIGN RECOGNITION SYSTEM<br><br>🌱 I’m currently learning JAVASCRIPT<br><br>💬 Ask me about PYTHON<br><br>📫 How to reach me  balasubramanian.sivakavi@gmail.com<br><br>⚡ Fun fact Problem Solver
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala1134/) 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
