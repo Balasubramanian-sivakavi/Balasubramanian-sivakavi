@@ -1,22 +1,32 @@
+<h1 align="center">Hi 👋 Nice to meet you.</h1>
+<h2 align="center"> I'm Balasubramanian S</h2>
+
 # 💫 About Me:
-I am interested in joining an organization as employee <br>where i can implement my problem solving skills along <br>with technical knowledge<br><br><br>
+🔭 I’m currently working on HAND SIGN RECOGNITION SYSTEM<br><br>🌱 I’m currently learning JAVASCRIPT<br><br>💬 Ask me about PYTHON<br><br>📫 How to reach me  balasubramanian.sivakavi@gmail.com<br><br>⚡ Fun fact Problem Solver
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala1134/) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 💻 Leetcode:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[![LeetCode user balasubramanian_s](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LEET%20CODE&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarish443&logo=leetcode&logoColor=yellow)](https://leetcode.com/balasubramanian_s/)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=balasubramanian_s)](https://github.com/KnlnKS/leetcode-stats)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Balasubramanian-sivakavi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Balasubramanian-sivakavi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balasubramanian-sivakavi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center"> 🤞 Connect me through 🤟</h3>
+<p align="center">
+<a href="https://linkedin.com/in/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
+<a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="110" /></a>
+<a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Balasubramanian-sivakavi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="355" /></p><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
+
+<br>
+<br> 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
