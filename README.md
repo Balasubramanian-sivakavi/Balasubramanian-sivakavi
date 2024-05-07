@@ -17,9 +17,9 @@
 <a href="https://instagram.com/_.bala._.11._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_.bala._.11._" height="30" width="110" /></a>
 <a href="https://www.hackerrank.com/logasebala" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="logasebala" height="30" width="130" /></a>
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="305" /></p><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="300" /></p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasubramanian-sivakavi&show_icons=true&theme=radical)
 
 
 <br>
