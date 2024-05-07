@@ -4,7 +4,7 @@ I am interested in joining an organization as employee <br>where i can implement
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bala1134/) 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=balasubramanian_s)](https://github.com/KnlnKS/leetcode-stats)
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
