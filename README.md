@@ -18,7 +18,7 @@
 <h3 align="center"> 🤞 Connect me through 🤟</h3>
 <p align="center">
 <a href="https://linkedin.com/in/bala1134" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bala1134" height="30" width="100" /></a>
-<a href="https://instagram.com/_.bala._11._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_.bala._11._" height="30" width="110" /></a>
+<a href="https://instagram.com/_.bala._.11._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_.bala._.11._" height="30" width="110" /></a>
 <a href="https://www.hackerrank.com/logasebala" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="logasebala" height="30" width="130" /></a>
 </p>
 
